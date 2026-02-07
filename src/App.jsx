@@ -6,7 +6,7 @@ import About from './pages/About'
 import Contact from './pages/Contact'
 import NotFound from './pages/NotFound'
 import User from './pages/User'
-import Home from './pages/home'
+import Home from './pages/Home'
 const App = () => {
   return (
     <div>
