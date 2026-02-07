@@ -38,7 +38,7 @@ const About = () => {
           <div className="relative rounded-3xl overflow-hidden border border-white/10 shadow-2xl transform transition-transform duration-700 group-hover:scale-[1.02] group-hover:rotate-1">
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent z-10"></div>
             <img 
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=800&h=1000" 
+              src="/src/assets/PROFILEPIC.jpg" 
               alt="Profile" 
               className="w-full h-[600px] object-cover grayscale group-hover:grayscale-0 transition-all duration-700"
             />
