@@ -20,7 +20,7 @@ const NotFound = () => {
     setIsExiting(true);
     setTimeout(() => {
       // Go back to the previous page
-      navigate('/home');
+      navigate('/');
     }, 800); // Wait for animation to finish
   };
 
